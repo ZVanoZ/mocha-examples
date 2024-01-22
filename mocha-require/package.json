@@ -1,0 +1,23 @@
+{
+  "name": "zvanoz/mocha-import-examples",
+  "version": "0.0.1-alpha",
+  "description": "...",
+  "homepage": "https://github.com/ZVanoZ/mocha-examples/",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "directories": {
+    "test": "./test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": ">=17.0.0"
+  },
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "latest"
+  }
+}
